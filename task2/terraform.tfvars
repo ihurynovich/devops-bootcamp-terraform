@@ -1,5 +1,5 @@
-project         = "epam-project-483806"
-owner           = "Ilya_Hurynovich@epam.com"
+project         = "cmtr-06d6a4ae-project"
+owner           = "ilya_hurynovich"
 terraform       = "true"
 bucket_location = "us-central1"
-bucket_name     = "cmtr-06d6a4ae-bucket-1773264879"
+bucket_name     = "cmtr-06d6a4ae-bucket-1773315773"
