@@ -1,0 +1,6 @@
+project         = "cmtr-31jzrl3v-projec"
+owner           = "ilya_hurynovich"
+terraform       = "true"
+bucket_location = "us-central1"
+bucket_name     = "cmtr-31jzrl3v-bucket-1773315773"
+service_account = "cmtr-31jzrl3v-sa"
