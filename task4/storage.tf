@@ -3,4 +3,6 @@ resource "google_storage_bucket" "storage_bucket" {
   location = var.bucket_location
 
   labels = local.common_labels
+
+  uniform_bucket_level_access = true
 }
